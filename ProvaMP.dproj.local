@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/03/21 13:16:16.000.706,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/21 13:18:06.000.021,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/12 06:56:51.000.751,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/12 07:03:19.000.580,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\DesafioSoftplan.dfm=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/05/12 07:03:19.000.580,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\DesafioSoftplan.pas=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/12 07:03:48.000.611,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\spConexao.dfm=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\DesafioSoftplan.dfm</Transaction>
+    <Transaction>2022/05/12 07:03:48.000.611,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\spConexao.pas=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\DesafioSoftplan.pas</Transaction>
+    <Transaction>2022/05/12 07:25:56.000.649,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\uspConexao.dfm=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\spConexao.dfm</Transaction>
+    <Transaction>2022/05/12 07:25:56.000.649,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\uspConexao.pas=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\spConexao.pas</Transaction>
+    <Transaction>2022/05/12 07:26:16.000.439,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/12 07:26:37.000.015,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\uspBaixarArquivos.pas=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/12 07:26:37.000.015,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\uspBaixarArquivos.dfm=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/05/12 07:32:07.000.302,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\ProvaMP.dproj=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/05/12 17:09:43.000.085,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/12 17:11:01.000.327,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\uspConexao.pas=</Transaction>
+    <Transaction>2022/05/12 17:12:00.000.212,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\uspConect.dfm</Transaction>
+    <Transaction>2022/05/12 17:12:00.000.212,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\uspConect.pas</Transaction>
+    <Transaction>2022/05/13 01:46:21.000.781,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/13 01:46:36.000.792,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\spDML.pas=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/13 02:23:38.000.652,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/13 02:23:50.000.600,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\uTipos.pas=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/13 02:27:44.000.204,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\spTipos.pas=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\uTipos.pas</Transaction>
+    <Transaction>2022/05/13 18:12:39.861,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/13 18:17:39.395,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\spHistoricoDownload.dfm=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/05/13 18:17:39.395,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\spHistoricoDownload.pas=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/13 22:09:00.992,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/13 22:09:29.672,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\spThread.pas=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/13 22:09:43.114,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\uspThread.pas=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\spThread.pas</Transaction>
+    <Transaction>2022/05/13 22:31:57.490,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/13 22:32:18.923,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\spFuncoesThread.pas=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
